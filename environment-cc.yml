@@ -1,0 +1,8 @@
+name: covalent_cloud_pydata_2023
+dependencies:
+  - python=3.9.18
+  - notebook
+  - ipywidgets
+  - pip
+  - pip:
+    - -r requirements-cc.txt

@@ -1,0 +1,11 @@
+accelerate==0.22.0
+covalent==0.220.0.post2
+covalent-awsbatch-plugin==0.40.0
+diffusers==0.20.2
+ipywidgets==8.1.1
+matplotlib==3.7.3
+sentencepiece==0.1.99
+torch==2.1.0
+torchvision==0.16.0
+transformers==4.33.1
+wikipedia-api==0.6.0

@@ -1,0 +1,8 @@
+name: covalent_pydata_2023
+dependencies:
+  - python=3.8.18
+  - notebook
+  - ipywidgets
+  - pip
+  - pip:
+    - -r requirements.txt
