@@ -8,14 +8,13 @@ Tutorial notebooks for PyData 2023 in New York City, NY.
 A bare-minimum example of how to use Covalent to run a simple workflow.
 
 ## Distributed ML with Covalent and Dask
-- `2-tutorial-dask.ipynb`
+- ` 2-tutorial-remote-dask.ipynb`
 
-Using Covalent to submit jobs to a *remote* Dask cluster running on AWS.
+A triggered Covalent workflow that submits jobs to a *remote* Dask cluster running on AWS.
 
-### Setup Instructions
+**Setup Instructions**
 
-- TODO:
-- TODO:
+- see `terraform/tutorial-dask/README.md` for instructions.
 
 ## AI Image Generator for Wikipedia Articles
 - `3-tutorial-llm.ipynb`
@@ -23,7 +22,7 @@ Using Covalent to submit jobs to a *remote* Dask cluster running on AWS.
 
 Using Covalent to run a machine learning workflows using AWS Batch.
 
-### Setup Instructions
+**Setup Instructions**
 
 - **Covalent OS** version: see `terraform/tutorial-llm/README.md` for instructions.
 - **Covalent Cloud** version: no setup required.
