@@ -1,8 +1,13 @@
 name: covalent_pydata_2023
+
+variables:
+  COVALENT_EXEC_BASE_URI: "public.ecr.aws/m8q0y4d2/covalent-executor-pydata2023:cuda-12.1.0"
+
 dependencies:
   - python=3.8.18
   - notebook
   - ipywidgets
   - pip
+
   - pip:
     - -r requirements.txt
