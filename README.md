@@ -24,8 +24,8 @@ Using Covalent to run a machine learning workflows using AWS Batch.
 
 **Setup Instructions**
 
-- **Covalent OS** version: see `terraform/tutorial-llm/README.md` for instructions.
-- **Covalent Cloud** version: no setup required.
+- **Covalent Open Source**: see `terraform/tutorial-llm/README.md` for instructions.
+- **Covalent Cloud**: no setup required.
 
 ## 🔗 Links
 
