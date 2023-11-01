@@ -44,7 +44,7 @@ terraform init
 
 ii. Generate an execution plan.
 ```shell
-terraform plan -out "dask.tfplan -var n_workers=2 -var enable_gpu=true"
+terraform plan -out "dask.tfplan" -var n_workers=2 -var enable_gpu=true
 ```
 
 iii. Review the output of `terraform plan`. If satisfied, create the infrastructure accordingly.
