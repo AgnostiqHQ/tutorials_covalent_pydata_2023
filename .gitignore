@@ -1,6 +1,6 @@
 *
 !*.md
-!*.iypnb
+!*.ipynb
 !*.py
 !*.tf
 !*.txt
