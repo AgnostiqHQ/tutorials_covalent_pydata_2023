@@ -7,5 +7,5 @@ matplotlib==3.7.3
 sentencepiece==0.1.99
 torch==2.1.0
 torchvision==0.16.0
-transformers==4.33.1
+transformers==4.36.0
 wikipedia-api==0.6.0
