@@ -2,5 +2,5 @@ accelerate==0.22.0
 diffusers==0.20.2
 sentencepiece==0.1.99
 torch==2.1.0
-transformers==4.33.1
+transformers==4.36.0
 wikipedia-api==0.6.0
